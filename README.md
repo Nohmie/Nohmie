@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nohmie
 - 👀 I’m interested in data analysis with SQL, Python and visualisation with Power BI
 - 🌱 I’m currently learning SQL (advanced) and Python
-- 💞️ I’m looking to collaborate on SQL projects 
+- 💞️ I’m looking to collaborate on data projects 
 - 📫 How to reach me :: Urenna.agugua@gmail.com 
 
 <!---
