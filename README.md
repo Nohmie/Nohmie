@@ -3,6 +3,7 @@
 - 🌱 I’m a Data Analyst and continually learning
 - 💞️ I’m looking to collaborate on Fintech projects
 - ⚡ I'm also a wife, super-mom, movie lover, and I never get tired of a good homemade sandwich
+- 📫 How to reach me :: Urenna.agugua@gmail.com
 
 <!---
 Nohmie/Nohmie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
