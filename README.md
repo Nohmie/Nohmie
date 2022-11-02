@@ -15,7 +15,7 @@
 ![Google Big Query](https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg)
 ![Python](https://img.shields.io/badge/-Python-5F7EA0?style=for-the-badge&labelColor=E5E5E5&logo=Python&logoColor=yellow)
 ---
-
+![Nohmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nohmie&show_icons=true&theme=radical)
 <!---
 Nohmie/Nohmie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
