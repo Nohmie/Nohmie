@@ -11,8 +11,9 @@
 ![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)
 ![Tableau badge](https://img.shields.io/badge/-Tableau-F0F4FF?style=for-the-badge&LABELColor=C2C2FF&logo=Tableau&logoColor=red)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-525252?style=for-the-badge&LABELColor=C2C2FF&logo=PostgreSQL&logoColor=blue)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-525252?style=for-the-badge&labelColor=E6EBF0&logo=PostgreSQL&logoColor=blue)
 ![Google Big Query](https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg)
+![Python](https://img.shields.io/badge/-Python-5F7EA0?style=for-the-badge&labelColor=E5E5E5&logo=Python&logoColor=yellow)
 ---
 
 <!---
